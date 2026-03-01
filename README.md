@@ -26,7 +26,7 @@ This tool specifically separates algorithms for SSDs and HDDs based on modern st
 1. Ensure you have **Python 3.x** installed.
 2. Clone this repository:
 ```bash
-   git clone [https://github.com/ferhatncgl/FCT-File-Shredder.git](https://github.com/ferhatncgl/FCT-File-Shredder.git)
+   git clone [https://github.com/ferhatncgl/FCT-Secure-Shredder.git](https://github.com/ferhatncgl/FCT-Secure-Shredder.git)
    cd FCT-File-Shredder
 
 ```
@@ -62,6 +62,7 @@ python main.py
 ## ⚠️ Disclaimer
 
 **USE AT YOUR OWN RISK.** Files deleted using this tool cannot be recovered. The author is not responsible for any accidental data loss or hardware degradation caused by the "Wipe Free Space" feature.
+
 
 
 

@@ -27,7 +27,7 @@ This tool specifically separates algorithms for SSDs and HDDs based on modern st
 2. Clone this repository:
 ```bash
    git clone [https://github.com/ferhatncgl/FCT-Secure-Shredder.git](https://github.com/ferhatncgl/FCT-Secure-Shredder.git)
-   cd FCT-File-Shredder
+   cd FCT-Secure-Shredder
 
 ```
 
@@ -42,7 +42,7 @@ pip install tkinterdnd2
 
 ## 📦 How to Download (.exe)
 
-If you just want to use the program, go to the [Releases](https://github.com/ferhatncgl/FCT-Secure-Shredder/releases) section and download the latest `.zip` file. Extract it and run `FCT Secure Shredder.exe`.
+If you just want to use the program, go to the [Releases](https://github.com/ferhatncgl/FCT-Secure-Shredder/releases) section and download the latest `.zip` file. Extract it and run `FCT Secure File Shredder.exe`.
 
 ## 🖥️ Usage
 
@@ -62,6 +62,7 @@ python main.py
 ## ⚠️ Disclaimer
 
 **USE AT YOUR OWN RISK.** Files deleted using this tool cannot be recovered. The author is not responsible for any accidental data loss or hardware degradation caused by the "Wipe Free Space" feature.
+
 
 
 

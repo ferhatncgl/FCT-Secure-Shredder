@@ -40,6 +40,10 @@ pip install tkinterdnd2
 
 *(Note: If you have multiple Python versions, ensure you use the correct pip path, e.g., `python -m pip install tkinterdnd2`)*
 
+## 📦 How to Download (.exe)
+
+If you just want to use the program, go to the [Releases](https://github.com/ferhatncgl/FCT-File-Shredder/releases) section and download the latest `.zip` file. Extract it and run `FCT File Shredder.exe`.
+
 ## 🖥️ Usage
 
 Run the application:
@@ -58,5 +62,6 @@ python main.py
 ## ⚠️ Disclaimer
 
 **USE AT YOUR OWN RISK.** Files deleted using this tool cannot be recovered. The author is not responsible for any accidental data loss or hardware degradation caused by the "Wipe Free Space" feature.
+
 
 

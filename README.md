@@ -1,5 +1,4 @@
 
-```markdown
 # FCT Secure File Shredder 🛡️
 
 A lightweight, GUI-based Python forensic tool designed to permanently and securely destroy files, folders, and wipe free disk space. 
@@ -59,3 +58,4 @@ python main.py
 ## ⚠️ Disclaimer
 
 **USE AT YOUR OWN RISK.** Files deleted using this tool cannot be recovered. The author is not responsible for any accidental data loss or hardware degradation caused by the "Wipe Free Space" feature.
+
